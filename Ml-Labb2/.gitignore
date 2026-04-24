@@ -1,0 +1,10 @@
+.venv/
+ml.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local duplicates / reference material
+imagenet_class_index (1).json
+AI25-Assignment2-ML.pdf
+TorchCam-example.ipynb
